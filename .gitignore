@@ -3,3 +3,7 @@ Thumbs.db
 *.log
 .env
 .env.*
+
+# Raw source exports — web-optimised copies live in assets/
+ChatGPT Image*.png
+download.mp4
